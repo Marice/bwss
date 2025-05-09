@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"App\\Tests\\Service\\PayrollDateGeneratorTest::testBonusDateForWeekendFallsOnWednesday":0,"App\\Tests\\Service\\PayrollDateGeneratorTest::testGeneratesCorrectDataStructure":0.003,"App\\Tests\\Service\\PayrollDateGeneratorTest::testBaseSalaryOnWeekendMovesToFriday":0}}
